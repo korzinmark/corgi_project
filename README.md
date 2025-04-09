@@ -6,3 +6,5 @@ This project I was made at the end of 2021. This is a pretty simple landing page
 * smooth scroll up arrow
 * closing the modal window 
 * form sending 
+
+P.S All webdesign is made by myself as well!
